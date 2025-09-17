@@ -1,7 +1,6 @@
 # c_sharp_corso-di-programmazione
 corso c# certificato_anno di corso 2025
 
-# Corso C# - Esercizi Personali
 Questa repository contiene tutti gli esercizi svolti durante il corso di C# (anno 2025).  
 È pensata per conservare, organizzare e condividere i progetti.
 
