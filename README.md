@@ -5,9 +5,9 @@ Questa repository contiene tutti gli esercizi svolti durante il corso di C# (ann
 È pensata per conservare, organizzare e condividere i progetti.
 
 ## 📂 Struttura della repository
-- `lezione1` → esercizi della prima lezione
-- `lezione2` → esercizi della seconda lezione
-- ecc.
+- `Lezione 1` → esercizi della prima lezione
+- `Lezione 2` → esercizi della seconda lezione
+  ecc...
 - `README.md` → questo file, con descrizione della repository
 
 ## 🎯 Obiettivi
