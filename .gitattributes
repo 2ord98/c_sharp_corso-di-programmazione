@@ -1,0 +1,19 @@
+###############################################################################
+# Normalizzati automaticamente i ritorni a capo (CRLF/LF)
+###############################################################################
+* text=auto
+
+###############################################################################
+# Impostati i file di progetto/soluzione come binari per evitare merge sporchi
+###############################################################################
+*.sln       merge=binary
+*.csproj    merge=binary
+*.vbproj    merge=binary
+
+###############################################################################
+# Trattate le immagini sempre come binari
+###############################################################################
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
